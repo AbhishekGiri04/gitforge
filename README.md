@@ -1,53 +1,26 @@
 <div align="center">
 
 # 🔧 GitForge
-### *Complete Git & GitHub Mastery Program*
+### *Master Git & GitHub Like a Pro*
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuft9exYrY5vgyI3H_3vwn0qoFNwB7WngkeQ&s" alt="Git & GitHub Mastery" width="600" height="400"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuft9exYrY5vgyI3H_3vwn0qoFNwB7WngkeQ&s" alt="Git & GitHub Mastery" width="800" height="500"/>
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/AbhishekGiri04/GitForge)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekGiri04/GitForge)
-[![Version Control](https://img.shields.io/badge/Version_Control-4ECDC4?style=for-the-badge&logo=git&logoColor=white)](https://github.com/AbhishekGiri04/GitForge)
-[![DevOps](https://img.shields.io/badge/DevOps-FF6B6B?style=for-the-badge&logo=devdotto&logoColor=white)](https://github.com/AbhishekGiri04/GitForge)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-45B7D1?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/AbhishekGiri04/GitForge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+**🚀 Complete Git & GitHub learning resource with practical examples and real-world workflows**
 
 </div>
 
 ---
 
-## 🚀 About This Project
+## ⚡ What You'll Learn
 
-**GitForge** is a comprehensive **Git and GitHub** learning repository designed for developers, students, and teams who want to master version control, collaboration workflows, and modern development practices. This project provides a complete roadmap from Git basics to advanced DevOps integration.
-
-### 🎯 What You'll Master
-
-#### 📊 **Git Fundamentals**
-- **Core Concepts**: Repository, commits, branches, merging
-- **Basic Commands**: init, add, commit, push, pull, clone
-- **Branching**: Feature branches, hotfixes, release branches
-- **Merging**: Fast-forward, three-way merge, conflict resolution
-
-#### ⚡ **Advanced Git Workflows**
-- **Git Flow**: Feature, develop, release, hotfix branches
-- **GitHub Flow**: Simple branching model for continuous deployment
-- **GitLab Flow**: Environment-based deployment workflow
-- **Trunk-based**: Continuous integration with short-lived branches
-
-#### 🔧 **GitHub Features**
-- **Pull Requests**: Code review, collaboration, merge strategies
-- **Issues & Projects**: Bug tracking, feature requests, project management
-- **Actions & CI/CD**: Automated testing, deployment pipelines
-- **Security**: Dependency scanning, secret management, code scanning
-
-### 🎯 Key Features
-
-- **📚 25 Comprehensive Guides**: Complete coverage from basics to advanced workflows
-- **💻 Practical Examples**: Real-world scenarios with step-by-step solutions
-- **🔧 20+ Git Commands**: Detailed explanations with use cases and examples
-- **📊 Workflow Templates**: Ready-to-use branching strategies and CI/CD pipelines
-- **🔄 Best Practices**: Industry-standard practices for team collaboration
-- **📖 Interview Ready**: Common Git questions and scenarios for technical interviews
+- **🔧 Git Essentials**: Commands, branching, merging, conflict resolution
+- **🐙 GitHub Mastery**: Pull requests, issues, actions, collaboration
+- **📊 Workflows**: Git Flow, GitHub Flow, team strategies
+- **🛠️ DevOps**: CI/CD pipelines, automation, best practices
 
 ---
 
@@ -55,91 +28,50 @@
 
 ```
 GitForge/
-├── 📚 concepts/                       # Git & GitHub Theory (25 Guides)
-│   ├── 🎯 fundamentals.md            # Git basics & version control concepts
+├── 📚 docs/                          # Complete Learning Materials
+│   ├── 🔧 git-basics/               # Git Fundamentals
+│   │   ├── installation.md          # Setup & configuration
+│   │   ├── basic-commands.md         # Essential commands
+│   │   ├── branching.md              # Branch management
+│   │   └── merging.md                # Merge strategies
 │   │
-│   ├── 📊 GIT BASICS (8 Guides)
-│   ├── 🔧 installation.md            # Git installation & configuration
-│   ├── 📝 basic-commands.md          # Essential Git commands
-│   ├── 📂 repository-setup.md        # Repository initialization & cloning
-│   ├── 💾 staging-committing.md      # Staging area & commit best practices
-│   ├── 🌿 branching.md               # Branch creation & management
-│   ├── 🔄 merging.md                 # Merge strategies & conflict resolution
-│   ├── 📡 remote-repositories.md     # Working with remote repositories
-│   └── 📜 git-history.md             # Viewing & manipulating Git history
+│   ├── 🐙 github-features/           # GitHub Mastery
+│   │   ├── pull-requests.md          # PR workflows
+│   │   ├── issues.md                 # Issue tracking
+│   │   ├── actions.md                # CI/CD automation
+│   │   └── collaboration.md          # Team workflows
 │   │
-│   ├── ⚡ ADVANCED GIT (9 Guides)
-│   ├── 🔀 advanced-merging.md        # Rebase, cherry-pick, squash
-│   ├── 🏷️ tagging.md                 # Version tagging & releases
-│   ├── 📦 submodules.md              # Git submodules & subtrees
-│   ├── 🔧 hooks.md                   # Git hooks & automation
-│   ├── 🔍 debugging.md               # Git bisect, blame, log analysis
-│   ├── 📊 workflows.md               # Git Flow, GitHub Flow, GitLab Flow
-│   ├── 🛠️ configuration.md           # Advanced Git configuration
-│   ├── 🔐 security.md                # GPG signing, credential management
-│   └── 🚀 performance.md             # Git optimization & large repositories
-│   │
-│   └── 🐙 GITHUB FEATURES (8 Guides)
-│       ├── 🔄 pull-requests.md       # PR creation, review, merge strategies
-│       ├── 🐛 issues.md               # Issue tracking & project management
-│       ├── ⚙️ github-actions.md      # CI/CD with GitHub Actions
-│       ├── 📦 packages.md            # GitHub Packages & container registry
-│       ├── 🔒 security-features.md   # Dependabot, code scanning, secrets
-│       ├── 👥 collaboration.md       # Team management & permissions
-│       ├── 📊 insights.md            # Repository analytics & metrics
-│       └── 🌐 github-pages.md        # Static site hosting with GitHub Pages
+│   └── ⚡ advanced/                   # Pro Techniques
+│       ├── workflows.md              # Git Flow, GitHub Flow
+│       ├── hooks.md                  # Automation
+│       ├── debugging.md              # Troubleshooting
+│       └── security.md               # Best practices
 │
-├── 💻 practical-examples/             # Hands-on Examples & Scenarios
-│   ├── 🏗️ project-setup/             # Repository setup examples
-│   │   ├── new-project-setup.md      # Starting a new project
-│   │   ├── existing-project.md       # Adding Git to existing project
-│   │   └── team-collaboration.md     # Setting up team workflows
-│   │
-│   ├── 🔄 workflow-examples/          # Real workflow scenarios
-│   │   ├── feature-development.md    # Feature branch workflow
-│   │   ├── hotfix-deployment.md      # Emergency fix workflow
-│   │   ├── release-management.md     # Release preparation & deployment
-│   │   └── code-review-process.md    # Code review best practices
-│   │
-│   └── 🚨 troubleshooting/           # Common problems & solutions
-│       ├── merge-conflicts.md        # Resolving merge conflicts
-│       ├── undoing-changes.md        # Reverting commits & changes
-│       ├── repository-cleanup.md     # Cleaning up repository history
-│       └── recovery-scenarios.md     # Recovering lost work
+├── 💻 examples/                       # Real-World Scenarios
+│   ├── project-setup/                # Repository setup
+│   ├── team-workflows/               # Collaboration examples
+│   └── troubleshooting/              # Common problems & solutions
 │
-├── 🔧 templates/                      # Ready-to-use Templates
-│   ├── 📋 .gitignore-templates/      # Language-specific gitignore files
-│   ├── 🔄 github-workflows/          # CI/CD workflow templates
-│   ├── 📝 issue-templates/           # GitHub issue templates
-│   ├── 🔄 pr-templates/              # Pull request templates
-│   └── 📊 project-templates/         # Complete project setups
+├── 🔧 templates/                      # Ready-to-Use Templates
+│   ├── .gitignore/                   # Language-specific ignores
+│   ├── workflows/                    # GitHub Actions
+│   └── pr-templates/                 # Pull request templates
 │
-├── 📚 references/                     # Learning Resources & Cheatsheets
-│   ├── 📖 git-cheatsheet.md          # Quick reference for Git commands
-│   ├── 🐙 github-cheatsheet.md       # GitHub features quick reference
-│   ├── 📚 learning-resources.md      # Curated books, courses, tutorials
-│   └── 🎯 interview-questions.md     # Common Git interview questions
-│
+├── 📖 git-commands.md                 # Quick command reference
 ├── 📄 LICENSE                         # MIT License
-├── 📖 README.md                       # Project documentation
-└── 🚀 .gitignore                      # Git ignore rules
+└── 🚀 .gitignore                      # Project ignores
 ```
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ What's Inside
 
-<div align="center">
-
-| Technology | Purpose | Advantages |
-|------------|---------|------------|
-| **Git** | Distributed version control system | Fast, reliable, branching & merging |
-| **GitHub** | Cloud-based Git repository hosting | Collaboration, CI/CD, project management |
-| **GitHub Actions** | CI/CD automation platform | Integrated workflows, extensive marketplace |
-| **Markdown** | Documentation and README files | Easy formatting, version control friendly |
-| **Shell Scripts** | Automation and Git hooks | Custom workflows, automated tasks |
-
-</div>
+| 📚 Resource | 🎯 Focus | ⚡ Benefit |
+|-------------|----------|------------|
+| **Git Commands** | 25+ essential commands | Master daily Git operations |
+| **GitHub Features** | PRs, Issues, Actions | Professional collaboration |
+| **Workflows** | Git Flow, GitHub Flow | Team productivity |
+| **Templates** | Ready-to-use configs | Quick project setup |
 
 ---
 
@@ -171,101 +103,47 @@ cd ../templates
 ls .gitignore-templates/ github-workflows/
 ```
 
-### 📚 Complete Learning Roadmap
+## 🚀 Learning Path
 
-#### **Phase 1: Git Fundamentals (Weeks 1-2)**
-- **Core Concepts**: Version control, repositories, commits
-- **Basic Commands**: init, add, commit, status, log, diff
-- **Branching Basics**: Creating, switching, merging branches
-- **Remote Work**: clone, push, pull, fetch
-- **Goal**: Comfortable with daily Git operations
-
-#### **Phase 2: Collaboration & Workflows (Weeks 3-4)**
-- **GitHub Basics**: Repositories, issues, pull requests
-- **Branching Strategies**: Git Flow, GitHub Flow
-- **Code Review**: PR creation, review process, merge strategies
-- **Conflict Resolution**: Handling merge conflicts effectively
-- **Goal**: Effective team collaboration skills
-
-#### **Phase 3: Advanced Git (Weeks 5-6)**
-- **Advanced Commands**: rebase, cherry-pick, stash, reset
-- **History Management**: Interactive rebase, commit squashing
-- **Git Hooks**: Pre-commit, post-merge automation
-- **Debugging**: bisect, blame, reflog for troubleshooting
-- **Goal**: Advanced Git operations and problem-solving
-
-#### **Phase 4: DevOps Integration (Weeks 7-8)**
-- **CI/CD Pipelines**: GitHub Actions, automated testing
-- **Security**: GPG signing, secret management, dependency scanning
-- **Performance**: Large repository optimization, LFS
-- **Advanced GitHub**: Packages, security features, insights
-- **Goal**: Production-ready development workflows
+**Week 1-2**: Git basics, commands, branching  
+**Week 3-4**: GitHub features, collaboration, PRs  
+**Week 5-6**: Advanced workflows, automation  
+**Week 7-8**: DevOps integration, best practices
 
 ---
 
-## 📈 Study Methodology
+## 📈 How to Use
 
-### Daily Practice Routine
-- ✅ **Study** Git concept or GitHub feature (20-30 min)
-- ✅ **Practice** commands in a test repository (20 min)
-- ✅ **Apply** to real project or scenario (30 min)
-- ✅ **Document** learnings and create notes (10 min)
-- ✅ **Review** previous concepts and commands (10 min)
-
-### Hands-on Learning Approach
-1. **Read** the concept documentation
-2. **Practice** commands in safe environment
-3. **Apply** to real project scenarios
-4. **Experiment** with different approaches
-5. **Document** solutions and best practices
-6. **Share** knowledge with team members
+1. **Start** with `git-commands.md` for quick reference
+2. **Explore** `/docs` for detailed concepts
+3. **Practice** with `/examples` scenarios
+4. **Use** `/templates` for your projects
 
 ---
 
-## 🎯 What Makes This Special
+## ⭐ Why GitForge?
 
-<div align="center">
-
-| 🎯 Feature | 📊 Details | 🚀 Benefit |
-|------------|------------|-------------|
-| **📚 25 Complete Guides** | Basics to advanced Git & GitHub | Comprehensive version control mastery |
-| **💻 Practical Examples** | Real-world scenarios & solutions | Hands-on learning experience |
-| **🔧 Ready Templates** | CI/CD, gitignore, PR templates | Quick project setup |
-| **📊 Workflow Strategies** | Git Flow, GitHub Flow, trunk-based | Team collaboration efficiency |
-| **🔄 Progressive Learning** | Structured 8-week roadmap | Systematic skill development |
-| **📖 Interview Focus** | Common Git questions & scenarios | Job interview preparation |
-| **🎯 Best Practices** | Industry-standard workflows | Professional development skills |
-| **📚 Theory + Practice** | Concepts + real implementation | Complete understanding |
-
-</div>
+- **🎯 Practical**: Real-world examples and scenarios
+- **📚 Complete**: From basics to advanced workflows
+- **🔧 Ready-to-Use**: Templates and configurations
+- **💼 Professional**: Industry-standard practices
 
 ---
 
-## 🎓 Learning Outcomes
+## 🎓 You'll Master
 
-After completing this program, you will:
-
-✅ **Master Git Commands**: From basic to advanced Git operations  
-✅ **Implement Workflows**: Git Flow, GitHub Flow, and custom strategies  
-✅ **Handle Collaboration**: Pull requests, code reviews, conflict resolution  
-✅ **Automate Processes**: CI/CD pipelines, Git hooks, GitHub Actions  
-✅ **Manage Projects**: Issue tracking, project boards, team coordination  
-✅ **Ensure Security**: GPG signing, secret management, dependency scanning  
-✅ **Optimize Performance**: Large repositories, Git LFS, best practices  
-✅ **Lead Teams**: Establish workflows, mentor developers, maintain standards
+✅ **Git Commands** - Daily operations to advanced techniques  
+✅ **GitHub Features** - PRs, issues, actions, collaboration  
+✅ **Team Workflows** - Git Flow, code reviews, conflict resolution  
+✅ **DevOps Integration** - CI/CD, automation, best practices
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Fork → Create branch → Make changes → Submit PR
+2. Follow existing structure and style
+3. Add examples for new concepts
 
 ---
 
