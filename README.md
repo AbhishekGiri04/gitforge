@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔧 GitForge
+# 📦 GitForge
 ### *Master Git & GitHub Like a Pro*
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuft9exYrY5vgyI3H_3vwn0qoFNwB7WngkeQ&s" alt="Git & GitHub Mastery" width="800" height="500"/>
@@ -20,58 +20,28 @@
 - **🔧 Git Essentials**: Commands, branching, merging, conflict resolution
 - **🐙 GitHub Mastery**: Pull requests, issues, actions, collaboration
 - **📊 Workflows**: Git Flow, GitHub Flow, team strategies
-- **🛠️ DevOps**: CI/CD pipelines, automation, best practices
 
 ---
 
-## 📁 Complete Repository Structure
+## 📁 Repository Structure
 
 ```
 GitForge/
-├── 📚 docs/                          # Complete Learning Materials
-│   ├── 🔧 git-basics/               # Git Fundamentals
-│   │   ├── installation.md          # Setup & configuration
-│   │   ├── basic-commands.md         # Essential commands
-│   │   ├── branching.md              # Branch management
-│   │   └── merging.md                # Merge strategies
-│   │
-│   ├── 🐙 github-features/           # GitHub Mastery
-│   │   ├── pull-requests.md          # PR workflows
-│   │   ├── issues.md                 # Issue tracking
-│   │   ├── actions.md                # CI/CD automation
-│   │   └── collaboration.md          # Team workflows
-│   │
-│   └── ⚡ advanced/                   # Pro Techniques
-│       ├── workflows.md              # Git Flow, GitHub Flow
-│       ├── hooks.md                  # Automation
-│       ├── debugging.md              # Troubleshooting
-│       └── security.md               # Best practices
-│
-├── 💻 examples/                       # Real-World Scenarios
-│   ├── project-setup/                # Repository setup
-│   ├── team-workflows/               # Collaboration examples
-│   └── troubleshooting/              # Common problems & solutions
-│
-├── 🔧 templates/                      # Ready-to-Use Templates
-│   ├── .gitignore/                   # Language-specific ignores
-│   ├── workflows/                    # GitHub Actions
-│   └── pr-templates/                 # Pull request templates
-│
-├── 📖 git-commands.md                 # Quick command reference
+├── 📖 git-commands.md                 # Essential Git commands reference
+├── 📚 git-theory.md                   # Git concepts and theory
 ├── 📄 LICENSE                         # MIT License
-└── 🚀 .gitignore                      # Project ignores
+└── 📖 README.md                       # Project documentation
 ```
 
 ---
 
 ## 🛠️ What's Inside
 
-| 📚 Resource | 🎯 Focus | ⚡ Benefit |
-|-------------|----------|------------|
-| **Git Commands** | 25+ essential commands | Master daily Git operations |
-| **GitHub Features** | PRs, Issues, Actions | Professional collaboration |
-| **Workflows** | Git Flow, GitHub Flow | Team productivity |
-| **Templates** | Ready-to-use configs | Quick project setup |
+| 📚 File | 🎯 Content |
+|---------|------------|
+| **git-commands.md** | 25+ essential Git commands with examples |
+| **git-theory.md** | Core Git concepts and workflows |
+| **LICENSE** | MIT License for open source use |
 
 ---
 
@@ -90,52 +60,43 @@ GitForge/
 git clone https://github.com/AbhishekGiri04/GitForge.git
 cd GitForge
 
-# Explore Git concepts
-cd concepts
-ls git-basics/ advanced-git/ github-features/
+# Read Git commands reference
+cat git-commands.md
 
-# Check practical examples
-cd ../practical-examples
-find . -name "*.md" | head -10
-
-# Use templates for your projects
-cd ../templates
-ls .gitignore-templates/ github-workflows/
+# Study Git theory
+cat git-theory.md
 ```
 
 ## 🚀 Learning Path
 
-**Week 1-2**: Git basics, commands, branching  
-**Week 3-4**: GitHub features, collaboration, PRs  
-**Week 5-6**: Advanced workflows, automation  
-**Week 7-8**: DevOps integration, best practices
+**Week 1-2**: Git fundamentals and essential commands  
+**Week 3-4**: GitHub features and collaboration workflows  
+**Week 5-6**: Advanced Git techniques and team strategies
 
 ---
 
 ## 📈 How to Use
 
-1. **Start** with `git-commands.md` for quick reference
-2. **Explore** `/docs` for detailed concepts
-3. **Practice** with `/examples` scenarios
-4. **Use** `/templates` for your projects
+1. **Start** with `git-commands.md` for quick command reference
+2. **Study** `git-theory.md` for understanding concepts
+3. **Practice** commands in your own projects
 
 ---
 
 ## ⭐ Why GitForge?
 
-- **🎯 Practical**: Real-world examples and scenarios
-- **📚 Complete**: From basics to advanced workflows
-- **🔧 Ready-to-Use**: Templates and configurations
-- **💼 Professional**: Industry-standard practices
+- **🎯 Practical**: Essential Git commands with real examples
+- **📚 Complete**: Commands + theory in one place
+- **🔧 Ready-to-Use**: Copy-paste commands for daily use
+- **💼 Professional**: Industry-standard Git practices
 
 ---
 
 ## 🎓 You'll Master
 
-✅ **Git Commands** - Daily operations to advanced techniques  
-✅ **GitHub Features** - PRs, issues, actions, collaboration  
-✅ **Team Workflows** - Git Flow, code reviews, conflict resolution  
-✅ **DevOps Integration** - CI/CD, automation, best practices
+✅ **Git Commands** - From basics to advanced operations  
+✅ **GitHub Features** - Pull requests, issues, and collaboration  
+✅ **Team Workflows** - Professional development practices
 
 ---
 
@@ -161,7 +122,7 @@ ls .gitignore-templates/ github-workflows/
 
 **🔧 Your Complete Git & GitHub Journey**
 
-*From Version Control Basics to DevOps Mastery • Theory to Practice • Learning to Leadership*
+*From Version Control Basics to Professional Workflows • Theory to Practice • Learning to Mastery*
 
 **⭐ Star this repository if it helps your Git journey!**
 
@@ -173,4 +134,4 @@ ls .gitignore-templates/ github-workflows/
 
 **© 2026 GitForge. All Rights Reserved.**
 
-</div># gitforge
+</div>
