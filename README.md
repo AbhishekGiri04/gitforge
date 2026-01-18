@@ -3,7 +3,7 @@
 # 📦 GitForge
 ### *Master Git & GitHub Like a Pro*
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuft9exYrY5vgyI3H_3vwn0qoFNwB7WngkeQ&s" alt="Git & GitHub Mastery" width="800" height="500"/>
+<img src="assets/GITHUB.png" alt="Git & GitHub Mastery" width="800" height="500"/>
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/AbhishekGiri04/GitForge)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekGiri04/GitForge)
