@@ -62,7 +62,6 @@
 │   ├── 📋 migrations/               # Database schema changes
 │   └── 🌱 seeds/                    # Sample data for development
 ├── 🧪 tests/                        # Test suites
-├── 📚 docs/                         # Documentation
 ├── 📦 package.json                  # Dependencies & scripts
 └── 📖 README.md                     # Project documentation
 ```
