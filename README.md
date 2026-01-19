@@ -27,6 +27,34 @@
 
 ```
 GitForge/
+├── 📂 assets/                         # Project assets
+│   └── 📄 GITHUB.png                  # Git & GitHub banner image
+├── 📂 tic-tac-toe/                    # Full-stack Tic-Tac-Toe game project
+│   ├── 📂 tic-tac-toe-backend/        # Node.js backend with MySQL
+│   │   ├── 📂 database/               # Database setup
+│   │   │   ├── 📂 migrations/         # Database migrations
+│   │   │   └── 📂 seeds/              # Seed data
+│   │   ├── 📂 src/                    # Backend source code
+│   │   │   ├── 📂 config/             # Configuration files
+│   │   │   ├── 📂 controllers/        # API controllers
+│   │   │   ├── 📂 middleware/         # Express middleware
+│   │   │   ├── 📂 models/             # Database models
+│   │   │   ├── 📂 routes/             # API routes
+│   │   │   ├── 📂 services/           # Business logic
+│   │   │   ├── 📂 utils/              # Utility functions
+│   │   │   └── 📄 server.js           # Express server entry point
+│   │   ├── 📂 tests/                  # Backend tests
+│   │   │   ├── 📄 api.test.js         # API endpoint tests
+│   │   │   └── 📄 game.test.js        # Game logic tests
+│   │   ├── 📄 .env.example            # Environment variables template
+│   │   ├── 📄 .gitignore              # Git ignore rules
+│   │   ├── 📄 jest.config.js          # Jest testing configuration
+│   │   ├── 📄 package.json            # Node.js dependencies
+│   │   └── 📄 README.md               # Backend documentation
+│   └── 📂 tic-tac-toe-frontend/       # HTML/CSS/JS frontend
+│       ├── 📄 index.html              # Main HTML file
+│       ├── 📄 index.css               # Styling
+│       └── 📄 README.md               # Frontend documentation
 ├── 📖 git-commands.md                 # Essential Git commands reference
 ├── 📚 git-theory.md                   # Git concepts and theory
 ├── 📄 LICENSE                         # MIT License
@@ -41,7 +69,8 @@ GitForge/
 |---------|------------|
 | **git-commands.md** | 25+ essential Git commands with examples |
 | **git-theory.md** | Core Git concepts and workflows |
-| **LICENSE** | MIT License for open source use |
+| **tic-tac-toe/** | Full-stack Tic-Tac-Toe game with Node.js backend & MySQL |
+| **assets/** | Project images and resources |
 
 ---
 
